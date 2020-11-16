@@ -1,6 +1,8 @@
 # RoMeo_V2_ATmega32U4_AVR_Platformio_Project_Template
 Project template to start programming RoMeo_V2 board (ATmega32U4) AVR microcontrollers with PlatformIO IDE
 
+### Note
+To upload to Romeo, you need to press the restart button and then click upload, but when you click upload take away your finger from the restart button quickly before the avrdude start searching about the USB port of the board. This is the only method to can upload an AVR code to the board. 
 ### If you need any help or information:
 :large_blue_circle:	 Facebook: https://www.facebook.com/walidamriou   
 :large_blue_circle:  Twitter: https://twitter.com/walidamriou    
